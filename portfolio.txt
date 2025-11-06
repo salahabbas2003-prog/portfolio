@@ -1,0 +1,287 @@
+===== index.html =====
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Portfolio – Accueil</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+<header>
+  <h1>Portfolio – BTS SIO SISR</h1>
+  <nav>
+    <ul>
+      <li><a href="index.html">Accueil</a></li>
+      <li><a href="bts.html">BTS SIO</a></li>
+      <li><a href="alternance.html">Alternance</a></li>
+      <li><a href="projets.html">Projets</a></li>
+      <li><a href="veille.html">Veilles</a></li>
+      <li><a href="contact.html">Contact</a></li>
+      <li><a href="cv.pdf" class="btn" download>Télécharger mon CV</a></li>
+    </ul>
+  </nav>
+</header>
+
+<main>
+  <section class="hero">
+    <h2>Bienvenue sur mon portfolio</h2>
+    <p>Étudiant en <strong>BTS SIO option SISR</strong>, passionné par les réseaux, la cybersécurité et l’administration systèmes.</p>
+    <p>En alternance chez <strong>Domimsart</strong>, je travaille sur la configuration réseau, la sécurité et le support informatique.</p>
+  </section>
+
+  <section>
+    <h2>Compétences clés</h2>
+    <ul>
+      <li>Configuration réseau : VLAN, DMZ, routage</li>
+      <li>Analyse Wireshark : SMB, HTTPS, SNMP</li>
+      <li>Outils : Linux, Nmap, GLPI, SSH</li>
+      <li>Sécurité, pare-feu, diagnostic</li>
+    </ul>
+  </section>
+</main>
+
+<footer>
+  <p>&copy; 2025 – Portfolio BTS SIO SISR</p>
+</footer>
+</body>
+</html>
+
+===== bts.html =====
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>BTS SIO</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+<header>
+  <h1>BTS SIO</h1>
+  <nav>
+    <ul>
+      <li><a href="index.html">Accueil</a></li>
+      <li><a href="bts.html">BTS SIO</a></li>
+      <li><a href="alternance.html">Alternance</a></li>
+      <li><a href="projets.html">Projets</a></li>
+      <li><a href="veille.html">Veilles</a></li>
+      <li><a href="contact.html">Contact</a></li>
+      <li><a href="cv.pdf" class="btn" download>Télécharger mon CV</a></li>
+    </ul>
+  </nav>
+</header>
+
+<main>
+  <section class="hero">
+    <h2>BTS SIO – Option SISR</h2>
+    <p>Le BTS Services Informatiques aux Organisations forme des techniciens capables de gérer des réseaux et des systèmes informatiques.</p>
+  </section>
+
+  <section>
+    <h2>Modules étudiés</h2>
+    <div class="card">Administration systèmes & réseaux</div>
+    <div class="card">Virtualisation</div>
+    <div class="card">Cybersécurité et pare-feu</div>
+    <div class="card">Analyse de protocoles</div>
+  </section>
+</main>
+
+<footer>
+  <p>&copy; 2025 – Portfolio BTS SIO SISR</p>
+</footer>
+</body>
+</html>
+
+===== alternance.html =====
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Alternance</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+<header>
+  <h1>Alternance</h1>
+  <nav>
+    <ul>
+      <li><a href="index.html">Accueil</a></li>
+      <li><a href="bts.html">BTS SIO</a></li>
+      <li><a href="alternance.html">Alternance</a></li>
+      <li><a href="projets.html">Projets</a></li>
+      <li><a href="veille.html">Veilles</a></li>
+      <li><a href="contact.html">Contact</a></li>
+      <li><a href="cv.pdf" class="btn" download>Télécharger mon CV</a></li>
+    </ul>
+  </nav>
+</header>
+
+<main>
+  <section class="hero">
+    <h2>Alternance chez Domimsart</h2>
+    <p>Configuration réseau, sécurité informatique, diagnostic et support utilisateurs.</p>
+  </section>
+
+  <section>
+    <h2>Missions réalisées</h2>
+    <div class="card">Configuration d’un pare-feu</div>
+    <div class="card">Analyse des flux réseau</div>
+    <div class="card">Déploiement de postes Windows & Linux</div>
+  </section>
+</main>
+
+<footer>
+  <p>&copy; 2025 – Portfolio BTS SIO SISR</p>
+</footer>
+</body>
+</html>
+
+===== projets.html =====
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Projets</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+<header>
+  <h1>Projets</h1>
+  <nav>
+    <ul>
+      <li><a href="index.html">Accueil</a></li>
+      <li><a href="bts.html">BTS SIO</a></li>
+      <li><a href="alternance.html">Alternance</a></li>
+      <li><a href="projets.html">Projets</a></li>
+      <li><a href="veille.html">Veilles</a></li>
+      <li><a href="contact.html">Contact</a></li>
+      <li><a href="cv.pdf" class="btn" download>Télécharger mon CV</a></li>
+    </ul>
+  </nav>
+</header>
+
+<main>
+  <section class="hero">
+    <h2>Projets réalisés</h2>
+    <p>Retrouvez ici mes projets scolaires et professionnels.</p>
+  </section>
+
+  <section>
+    <h2>Projets Scolaires</h2>
+    <div class="card">Analyse SMB/HTTPS/FTP avec Wireshark</div>
+    <div class="card">Configuration VLAN avec CISCO Packet Tracer</div>
+  </section>
+
+  <section>
+    <h2>Projets en entreprise</h2>
+    <div class="card">Déploiement réseau avec sécurisation DMZ</div>
+    <div class="card">Mise en place d’un système de sauvegarde</div>
+  </section>
+</main>
+
+<footer>
+  <p>&copy; 2025 – Portfolio BTS SIO SISR</p>
+</footer>
+</body>
+</html>
+
+===== veille.html =====
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Veilles</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+<header>
+  <h1>Veille Technologique & Juridique</h1>
+  <nav>
+    <ul>
+      <li><a href="index.html">Accueil</a></li>
+      <li><a href="bts.html">BTS SIO</a></li>
+      <li><a href="alternance.html">Alternance</a></li>
+      <li><a href="projets.html">Projets</a></li>
+      <li><a href="veille.html">Veilles</a></li>
+      <li><a href="contact.html">Contact</a></li>
+      <li><a href="cv.pdf" class="btn" download>Télécharger mon CV</a></li>
+    </ul>
+  </nav>
+</header>
+
+<main>
+  <section class="hero">
+    <h2>Veille Technologique</h2>
+    <div class="card">Cybersécurité : ransomware et firewall nouvelle génération</div>
+    <div class="card">Nouveautés Windows Server</div>
+  </section>
+
+  <section>
+    <h2>Veille Juridique</h2>
+    <div class="card">RGPD – gestion des données personnelles</div>
+    <div class="card">Sécurité informatique & responsabilité</div>
+  </section>
+</main>
+
+<footer>
+  <p>&copy; 2025 – Portfolio BTS SIO SISR</p>
+</footer>
+</body>
+</html>
+
+===== contact.html =====
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Contact</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+<header>
+  <h1>Contact</h1>
+  <nav>
+    <ul>
+      <li><a href="index.html">Accueil</a></li>
+      <li><a href="bts.html">BTS SIO</a></li>
+      <li><a href="alternance.html">Alternance</a></li>
+      <li><a href="projets.html">Projets</a></li>
+      <li><a href="veille.html">Veilles</a></li>
+      <li><a href="contact.html">Contact</a></li>
+      <li><a href="cv.pdf" class="btn" download>Télécharger mon CV</a></li>
+    </ul>
+  </nav>
+</header>
+
+<main>
+  <section class="hero">
+    <h2>Me contacter</h2>
+    <p>Entrez votre message :</p>
+    <form>
+      <label>Nom</label>
+      <input type="text">
+      <label>Email</label>
+      <input type="email">
+      <label>Message</label>
+      <textarea rows="5"></textarea>
+      <button type="submit" class="btn">Envoyer</button>
+    </form>
+  </section>
+</main>
+
+<footer>
+  <p>&copy; 2025 – Portfolio BTS SIO SISR</p>
+</footer>
+</body>
+</html>
+
+===== styles.css =====
+(…same content as previously generated…)
+
+===== script.js =====
+console.log("Portfolio moderne chargé avec succès");
